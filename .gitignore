@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+
+# Do NOT ignore articles or metadata - they are the content of this repo
