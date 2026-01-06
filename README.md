@@ -9,7 +9,7 @@ Mirrored articles from Nate Jones's Substack newsletter (https://natesnewsletter
 
 ## Source
 
-Automatically mirrored from: https://github.com/StuartLeitch/_TEMP_nate_jones
+Automatically mirrored from: https://github.com/StuartLeitch/nate_jones
 
 ## Statistics
 
