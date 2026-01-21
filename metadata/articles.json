@@ -2065,5 +2065,18 @@
     "slug": "disposable-software-works-for-cursor-but-probably-wont-work-for-you-the-reliability-playbook-for-eve",
     "filename": "2026-01-20-disposable-software-works-for-cursor-but-probably-wont-work-for-you-the-reliability-playbook-for-eve.md",
     "directory": "2026-01"
+  },
+  "https://natesnewsletter.substack.com/p/tool-shaped-vs-colleague-shaped-ai": {
+    "url": "https://natesnewsletter.substack.com/p/tool-shaped-vs-colleague-shaped-ai",
+    "title": "The Specification Gap: Why Your AI Produces Impressive-Looking Output With Fundamental Problems + The Prompt Kit To Help You Fix It",
+    "published_date": "2026-01-21T14:03:07",
+    "author": "Nate Jones",
+    "categories": [],
+    "tags": [],
+    "audience": "everyone",
+    "subtitle": "Watch now | Codex is better when you can define correctness. Claude Code is better when you can't. Either way, YOU need to know what situation you're in to choose the right path forward.",
+    "slug": "the-specification-gap-why-your-ai-produces-impressive-looking-output-with-fundamental-problems-the-p",
+    "filename": "2026-01-21-the-specification-gap-why-your-ai-produces-impressive-looking-output-with-fundamental-problems-the-p.md",
+    "directory": "2026-01"
   }
 }
