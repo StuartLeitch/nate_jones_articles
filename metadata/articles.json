@@ -2143,5 +2143,18 @@
     "slug": "my-honest-field-notes-on-scaling-agents-past-the-demo-phase-6-rules-from-teams-running-hundreds",
     "filename": "2026-01-26-my-honest-field-notes-on-scaling-agents-past-the-demo-phase-6-rules-from-teams-running-hundreds.md",
     "directory": "2026-01"
+  },
+  "https://natesnewsletter.substack.com/p/anthropic-just-put-claude-inside": {
+    "url": "https://natesnewsletter.substack.com/p/anthropic-just-put-claude-inside",
+    "title": "I built an 11-tab financial model in 10 minutes + the prompting guide that makes it repeatable",
+    "published_date": "2026-01-27T14:03:23",
+    "author": "Nate Jones",
+    "categories": [],
+    "tags": [],
+    "audience": "everyone",
+    "subtitle": "Watch now | Just 5 months ago, AI was only just starting to crack Excel. Now, weeks of modeling work can happen in minutes.",
+    "slug": "i-built-an-11-tab-financial-model-in-10-minutes-the-prompting-guide-that-makes-it-repeatable",
+    "filename": "2026-01-27-i-built-an-11-tab-financial-model-in-10-minutes-the-prompting-guide-that-makes-it-repeatable.md",
+    "directory": "2026-01"
   }
 }
