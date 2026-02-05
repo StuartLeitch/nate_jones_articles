@@ -2260,5 +2260,18 @@
     "slug": "sam-altman-hasnt-changed-his-workflow-heres-why-that-should-terrify-you-5-prompts-to-not-make-his-mi",
     "filename": "2026-02-04-sam-altman-hasnt-changed-his-workflow-heres-why-that-should-terrify-you-5-prompts-to-not-make-his-mi.md",
     "directory": "2026-02"
+  },
+  "https://natesnewsletter.substack.com/p/why-your-ai-output-feels-generic": {
+    "url": "https://natesnewsletter.substack.com/p/why-your-ai-output-feels-generic",
+    "title": "Why your AI output feels generic (it's not your prompting) + 4 prompts to fix it plus an AI customization guide",
+    "published_date": "2026-02-05T14:03:42",
+    "author": "Nate Jones",
+    "categories": [],
+    "tags": [],
+    "audience": "everyone",
+    "subtitle": "Watch now (19 mins) | Your AI was trained on thousands of raters but, since none of them are you, the output always feels off. This article is going to help you fix that.",
+    "slug": "why-your-ai-output-feels-generic-its-not-your-prompting-4-prompts-to-fix-it-plus-an-ai-customization",
+    "filename": "2026-02-05-why-your-ai-output-feels-generic-its-not-your-prompting-4-prompts-to-fix-it-plus-an-ai-customization.md",
+    "directory": "2026-02"
   }
 }
