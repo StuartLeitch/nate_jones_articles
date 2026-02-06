@@ -2273,5 +2273,18 @@
     "slug": "why-your-ai-output-feels-generic-its-not-your-prompting-4-prompts-to-fix-it-plus-an-ai-customization",
     "filename": "2026-02-05-why-your-ai-output-feels-generic-its-not-your-prompting-4-prompts-to-fix-it-plus-an-ai-customization.md",
     "directory": "2026-02"
+  },
+  "https://natesnewsletter.substack.com/p/what-anthropics-new-constitution": {
+    "url": "https://natesnewsletter.substack.com/p/what-anthropics-new-constitution",
+    "title": "My breakdown of Claude's 80-Page Constitution + 3 prompts to use it properly",
+    "published_date": "2026-02-06T14:02:34",
+    "author": "Nate Jones",
+    "categories": [],
+    "tags": [],
+    "audience": "everyone",
+    "subtitle": "Watch now | Anthropic released an 80-page document on January 22, 2026 that reads like nothing else in AI.",
+    "slug": "my-breakdown-of-claudes-80-page-constitution-3-prompts-to-use-it-properly",
+    "filename": "2026-02-06-my-breakdown-of-claudes-80-page-constitution-3-prompts-to-use-it-properly.md",
+    "directory": "2026-02"
   }
 }
