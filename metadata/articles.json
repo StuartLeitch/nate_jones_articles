@@ -2624,5 +2624,18 @@
     "slug": "everyone-you-know-is-about-to-ask-you-about-claude",
     "filename": "2026-03-04-everyone-you-know-is-about-to-ask-you-about-claude.md",
     "directory": "2026-03"
+  },
+  "https://natesnewsletter.substack.com/p/your-engineers-are-building-your": {
+    "url": "https://natesnewsletter.substack.com/p/your-engineers-are-building-your",
+    "title": "Grab the prompt kit I built to audit your AI platform lock-in \u2014 before your switching costs compound past the point of no return",
+    "published_date": "2026-03-05T14:02:02",
+    "author": "Nate Jones",
+    "categories": [],
+    "tags": [],
+    "audience": "everyone",
+    "subtitle": "Watch now | Earlier this week, I wrote about Sam Altman winning a war he didn\u2019t have to fight \u2014 the Pentagon deal, the $110 billion raise, the Stateful Runtime on Bedrock, the infrastructure geomet...",
+    "slug": "grab-the-prompt-kit-i-built-to-audit-your-ai-platform-lock-in-before-your-switching-costs-compound-p",
+    "filename": "2026-03-05-grab-the-prompt-kit-i-built-to-audit-your-ai-platform-lock-in-before-your-switching-costs-compound-p.md",
+    "directory": "2026-03"
   }
 }
