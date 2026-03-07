@@ -2650,5 +2650,18 @@
     "slug": "the-harness-is-the-product",
     "filename": "2026-03-06-the-harness-is-the-product.md",
     "directory": "2026-03"
+  },
+  "https://natesnewsletter.substack.com/p/i-tested-gpt-54-against-claude-and": {
+    "url": "https://natesnewsletter.substack.com/p/i-tested-gpt-54-against-claude-and",
+    "title": "GPT-5.4 beat human performance on desktop tasks and missed a question a child would get right. Both are true. Here's what to do with that.",
+    "published_date": "2026-03-07T15:00:56",
+    "author": "Nate Jones",
+    "categories": [],
+    "tags": [],
+    "audience": "everyone",
+    "subtitle": "Watch now | I ran evals across all current frontier models so you don't have to (and yes, it was very fun).",
+    "slug": "gpt-54-beat-human-performance-on-desktop-tasks-and-missed-a-question-a-child-would-get-right-both-ar",
+    "filename": "2026-03-07-gpt-54-beat-human-performance-on-desktop-tasks-and-missed-a-question-a-child-would-get-right-both-ar.md",
+    "directory": "2026-03"
   }
 }
