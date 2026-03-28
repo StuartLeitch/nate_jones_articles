@@ -2923,5 +2923,18 @@
     "slug": "the-most-expensive-coordination-cost-in-product-development-just-got-a-fix-its-a-markdown-file",
     "filename": "2026-03-27-the-most-expensive-coordination-cost-in-product-development-just-got-a-fix-its-a-markdown-file.md",
     "directory": "2026-03"
+  },
+  "https://natesnewsletter.substack.com/p/90-of-what-you-build-on-your-ai-agent": {
+    "url": "https://natesnewsletter.substack.com/p/90-of-what-you-build-on-your-ai-agent",
+    "title": "The open loop audit prompt that separates real delegation from simulated work + 3 more prompts for overnight execution",
+    "published_date": "2026-03-28T14:02:35",
+    "author": "Nate Jones",
+    "categories": [],
+    "tags": [],
+    "audience": "everyone",
+    "subtitle": "Watch now | Anthropic shipped Dispatch and computer use this week.",
+    "slug": "the-open-loop-audit-prompt-that-separates-real-delegation-from-simulated-work-3-more-prompts-for-ove",
+    "filename": "2026-03-28-the-open-loop-audit-prompt-that-separates-real-delegation-from-simulated-work-3-more-prompts-for-ove.md",
+    "directory": "2026-03"
   }
 }
