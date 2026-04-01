@@ -2975,5 +2975,18 @@
     "slug": "the-company-everyone-says-lost-the-ai-race-is-building-the-layer-every-ai-winner-has-to-use",
     "filename": "2026-03-31-the-company-everyone-says-lost-the-ai-race-is-building-the-layer-every-ai-winner-has-to-use.md",
     "directory": "2026-03"
+  },
+  "https://natesnewsletter.substack.com/p/anthropic-just-built-a-model-that": {
+    "url": "https://natesnewsletter.substack.com/p/anthropic-just-built-a-model-that",
+    "title": "Every workaround you built for the last model is now breaking the next one. The 4-question audit + prompts to fix it.",
+    "published_date": "2026-04-01T13:03:15",
+    "author": "Nate Jones",
+    "categories": [],
+    "tags": [],
+    "audience": "everyone",
+    "subtitle": "Watch now | Claude Mythos is nigh! The four-question audit that tells you which parts of your AI stack it breaks, and the design principle that keeps it from happening again.",
+    "slug": "every-workaround-you-built-for-the-last-model-is-now-breaking-the-next-one-the-4-question-audit-prom",
+    "filename": "2026-04-01-every-workaround-you-built-for-the-last-model-is-now-breaking-the-next-one-the-4-question-audit-prom.md",
+    "directory": "2026-04"
   }
 }
