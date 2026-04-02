@@ -2988,5 +2988,18 @@
     "slug": "every-workaround-you-built-for-the-last-model-is-now-breaking-the-next-one-the-4-question-audit-prom",
     "filename": "2026-04-01-every-workaround-you-built-for-the-last-model-is-now-breaking-the-next-one-the-4-question-audit-prom.md",
     "directory": "2026-04"
+  },
+  "https://natesnewsletter.substack.com/p/your-claude-sessions-cost-10x-what": {
+    "url": "https://natesnewsletter.substack.com/p/your-claude-sessions-cost-10x-what",
+    "title": "You're Loading 66,000 Tokens of Plugins Before You Even Type. That's Why Your Limit Disappears.",
+    "published_date": "2026-04-02T13:02:39",
+    "author": "Nate Jones",
+    "categories": [],
+    "tags": [],
+    "audience": "everyone",
+    "subtitle": "Watch now | Token management is a indicator of AI fluency. Here's how to get better at it.",
+    "slug": "youre-loading-66000-tokens-of-plugins-before-you-even-type-thats-why-your-limit-disappears",
+    "filename": "2026-04-02-youre-loading-66000-tokens-of-plugins-before-you-even-type-thats-why-your-limit-disappears.md",
+    "directory": "2026-04"
   }
 }
