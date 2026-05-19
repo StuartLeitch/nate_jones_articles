@@ -3599,5 +3599,18 @@
     "slug": "what-chatgpt-sees-when-it-looks-at-your-company-3-diagnostics",
     "filename": "2026-05-18-what-chatgpt-sees-when-it-looks-at-your-company-3-diagnostics.md",
     "directory": "2026-05"
+  },
+  "https://natesnewsletter.substack.com/p/agent-protocol-stack-mcp-a2a": {
+    "url": "https://natesnewsletter.substack.com/p/agent-protocol-stack-mcp-a2a",
+    "title": "Six agent protocols just launched. Three of them decide which products survive. Here is how to tell which three.",
+    "published_date": "2026-05-19T13:03:05",
+    "author": "Nate Jones",
+    "categories": [],
+    "tags": [],
+    "audience": "everyone",
+    "subtitle": "Six agent protocols launched in a year. Three form the core stack: MCP for tools, A2A for delegation, AG-UI for human control. Map your product to the right layers.",
+    "slug": "six-agent-protocols-just-launched-three-of-them-decide-which-products-survive-here-is-how-to-tell-wh",
+    "filename": "2026-05-19-six-agent-protocols-just-launched-three-of-them-decide-which-products-survive-here-is-how-to-tell-wh.md",
+    "directory": "2026-05"
   }
 }
