@@ -3716,5 +3716,18 @@
     "slug": "your-agent-dashboard-is-green-the-run-underneath-it-is-where-the-work-actually-broke",
     "filename": "2026-05-28-your-agent-dashboard-is-green-the-run-underneath-it-is-where-the-work-actually-broke.md",
     "directory": "2026-05"
+  },
+  "https://natesnewsletter.substack.com/p/product-management-cheap-software-governance": {
+    "url": "https://natesnewsletter.substack.com/p/product-management-cheap-software-governance",
+    "title": "Your prototype graveyard is leaking secrets. The Prototype Classifier + Demotion Audit decide what stays",
+    "published_date": "2026-05-29T13:03:25",
+    "author": "Nate Jones",
+    "categories": [],
+    "tags": [],
+    "audience": "everyone",
+    "subtitle": "Watch now | PMs used to ration engineering. Now they have to classify abundance.",
+    "slug": "your-prototype-graveyard-is-leaking-secrets-the-prototype-classifier-demotion-audit-decide-what-stay",
+    "filename": "2026-05-29-your-prototype-graveyard-is-leaking-secrets-the-prototype-classifier-demotion-audit-decide-what-stay.md",
+    "directory": "2026-05"
   }
 }
