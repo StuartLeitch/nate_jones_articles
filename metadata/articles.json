@@ -3768,5 +3768,18 @@
     "slug": "opus-48-scored-81-in-my-benchmark-i-still-wouldnt-default-to-it-the-full-breakdown-nates-community-s",
     "filename": "2026-06-03-opus-48-scored-81-in-my-benchmark-i-still-wouldnt-default-to-it-the-full-breakdown-nates-community-s.md",
     "directory": "2026-06"
+  },
+  "https://natesnewsletter.substack.com/p/token-burn-dashboard": {
+    "url": "https://natesnewsletter.substack.com/p/token-burn-dashboard",
+    "title": "You can't trust one token number across your tools. Here's the guide to a dashboard that keeps Codex, Claude, and ChatGPT honest.",
+    "published_date": "2026-06-05T13:02:43",
+    "author": "Nate Jones",
+    "categories": [],
+    "tags": [],
+    "audience": "everyone",
+    "subtitle": "Watch now | Token usage only becomes useful when it is tied to outcomes: what work you gave AI, how much delegated intelligence you deployed, whether the result improved, and what you should ask th...",
+    "slug": "you-cant-trust-one-token-number-across-your-tools-heres-the-guide-to-a-dashboard-that-keeps-codex-cl",
+    "filename": "2026-06-05-you-cant-trust-one-token-number-across-your-tools-heres-the-guide-to-a-dashboard-that-keeps-codex-cl.md",
+    "directory": "2026-06"
   }
 }
